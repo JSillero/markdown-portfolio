@@ -13,11 +13,10 @@ layout: default
 {% include 03-links.md %}
 
 <br>
-- aLGO
-- oTRO OTRO
-- mjas cosas
-   - vamonos que nos vamos 
-
+* algo
+* msa cosas
+* otras cosas
+ * mas amas mas
 <br>
 
 {% include 05-emphasis.md %}
